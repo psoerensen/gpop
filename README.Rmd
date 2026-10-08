@@ -25,6 +25,15 @@ install.packages("remotes")  # Run once
 remotes::install_github("psoerensen/gpop")
 ```
 
+## Tutorials
+
+Small worked examples with runnable base-R code, figures and exercises:
+
+- [From genotypes to allele frequencies](https://github.com/psoerensen/gpop/blob/main/docs/tutorials/allele-frequencies.md)
+- [Hardy-Weinberg expectations](https://github.com/psoerensen/gpop/blob/main/docs/tutorials/hwe-expectations.md)
+
+These teaching calculations do not introduce exported scientific functions.
+
 ## Reference example
 
 ```r

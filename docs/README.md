@@ -1,7 +1,16 @@
 # gpop documentation
 
-Installed help for gpop-package describes foundation status. The following
-documents define proposals, not claims of supported scientific computation.
+Installed help for gpop-package describes foundation status. The scientific contracts
+define proposals, not claims of supported scientific computation. The tutorials
+provide independently runnable base-R teaching calculations, with no new
+exported scientific functions.
+
+## Tutorials
+
+- [From genotypes to allele frequencies](tutorials/allele-frequencies.md)
+- [Hardy-Weinberg expectations](tutorials/hwe-expectations.md)
+
+## Contracts and development
 
 - [Scientific scope and proposed interfaces](design/scope.md)
 - [Data and cooperation](design/data-contracts.md)

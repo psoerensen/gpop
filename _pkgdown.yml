@@ -11,6 +11,11 @@ repo:
     issue: https://github.com/psoerensen/gpop/issues/
     user: https://github.com/
 articles:
+- title: Tutorials
+  navbar: Tutorials
+  contents:
+  - articles/docs-tutorials-allele-frequencies
+  - articles/docs-tutorials-hwe-expectations
 - title: Guides and development
   contents:
   - articles/docs-README
